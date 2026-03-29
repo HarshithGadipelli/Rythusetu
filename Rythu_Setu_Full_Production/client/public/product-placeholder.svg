@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#edf7ee"/>
+  <rect y="360" width="900" height="240" fill="#d6ecd8"/>
+  <circle cx="140" cy="120" r="70" fill="#f5d06f"/>
+  <path d="M0 420 C120 350, 220 500, 340 420 S560 350, 700 420 S820 500, 900 410 V600 H0 Z" fill="#7ec77f"/>
+  <text x="450" y="255" text-anchor="middle" font-family="Arial" font-size="54" fill="#2e7d32" font-weight="700">Rythu Setu</text>
+  <text x="450" y="315" text-anchor="middle" font-family="Arial" font-size="28" fill="#5a7a59">Fresh organic products</text>
+</svg>
