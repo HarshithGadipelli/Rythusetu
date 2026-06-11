@@ -1,4 +1,6 @@
+
 # Rythusetu
+refer rythusetu inside readme file 
 git init 
 git clone https://github.com/HarshithGadipelli/Rythusetu.git
 # Navigate to the server folder
