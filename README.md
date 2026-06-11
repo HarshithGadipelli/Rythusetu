@@ -1,5 +1,6 @@
 # Rythusetu
-
+git init 
+git clone https://github.com/HarshithGadipelli/Rythusetu.git
 # Navigate to the server folder
 cd C:\Rythusetu\Rythu_Setu_Full_Production\server
 
